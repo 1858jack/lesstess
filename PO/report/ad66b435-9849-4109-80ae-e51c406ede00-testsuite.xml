@@ -1,0 +1,62 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1571906893070" stop="1571906986439">
+  <name>test_login</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1571906893070" status="passed" stop="1571906933370">
+      <name>Test_login.test_login[1564543445-1234560]</name>
+      <attachments>
+        <attachment source="3b416f9c-feee-41da-82f3-06db52c62187-attachment.txt" title="描述" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="19492-MainThread"/>
+        <label name="host" value="LAPTOP-JRGK1TDM"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps>
+        <step start="1571906893074" status="passed" stop="1571906911688">
+          <name>执行登陆</name>
+          <title>执行登陆</title>
+          <attachments/>
+          <steps/>
+        </step>
+      </steps>
+    </test-case>
+    <test-case start="1571906933377" status="passed" stop="1571906954695">
+      <name>Test_login.test_login[1564543445-1234561]</name>
+      <attachments>
+        <attachment source="941b9e94-0900-4a46-b3af-0a31d724413a-attachment.txt" title="描述" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="19492-MainThread"/>
+        <label name="host" value="LAPTOP-JRGK1TDM"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1571906954698" status="passed" stop="1571906986439">
+      <name>Test_login.test_login[1564543445-1234562]</name>
+      <attachments>
+        <attachment source="ed825f32-d0c2-402f-8e08-4d7b22665136-attachment.txt" title="描述" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="19492-MainThread"/>
+        <label name="host" value="LAPTOP-JRGK1TDM"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps>
+        <step start="1571906986440" status="passed" stop="1571906988838">
+          <name>执行退出</name>
+          <title>执行退出</title>
+          <attachments/>
+          <steps/>
+        </step>
+      </steps>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>
