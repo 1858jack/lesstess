@@ -1,8 +1,9 @@
+import sys
+import os
 
+import allure
 
-import page
-from base.base import Base
-
+sys.path.append(os.getcwd())
 
 
 class PageLogin(Base):
